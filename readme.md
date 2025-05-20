@@ -3,8 +3,7 @@
 
 Run `npm install` in this project to get all dependencies. 
 Then, you can follow along the workshop with instructions delivered by the trainer.
-In the assets folders, you will find a copy of the slides, the final project, and 
-two projects to see how to implement Passkeys on iOS and Android native apps for clients.
+In the assets folders, you will find a copy of the slides and a final project of the project.
 
 ## Code Snippets
 
